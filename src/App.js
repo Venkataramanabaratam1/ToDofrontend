@@ -25,7 +25,7 @@ function App() {
     <div className="App">
       
       <div className="container">
-        <h1>ToDo App</h1>  
+        <h1>ToDoList</h1>  
         
         <div className="top">
           <input 
